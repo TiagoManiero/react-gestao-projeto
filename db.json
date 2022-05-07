@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "teste projeto",
+      "budget": "5800",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 1
+    },
+    {
+      "name": "projetinho lilil",
+      "budget": "20",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 15,
+      "service": [
+        {
+          "name": "serviço 1",
+          "cost": "15",
+          "description": "faz isso",
+          "id": "9ebd1ea3-9c7c-4e32-a7c3-e89deac45118"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "projeto design loko",
+      "budget": "100006",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
